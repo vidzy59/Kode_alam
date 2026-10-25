@@ -17,3 +17,20 @@
 - 🌍 [Create with OMGithub](https://omgithub.com).
 - 🧬 [Explore the remix source](https://github.com/vidzy59/Kode_alam).
 <!-- omgithub:readme:end -->
+
+## SpekGadget Arena
+
+Aplikasi katalog gadget Indonesia: spesifikasi, harga toko, berita, favorit,
+perbandingan head-to-head, dan **Proyek perangkat** untuk menyusun daftar
+gadget beserta anggaran. Seluruh data berjalan lokal di perangkat, tanpa akun.
+
+- **Native app shell** — app bar, tab bawah, sheet, safe-area iOS, dan mode gelap.
+- **Proyek** — buat, ubah, hapus, tambah perangkat, dan pantau anggaran.
+- **PWA** — dapat dipasang, service worker, dan tetap terbuka saat offline.
+
+Jalankan secara lokal:
+
+```sh
+python3 -m http.server 3000
+# buka http://localhost:3000
+```
